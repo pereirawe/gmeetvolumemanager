@@ -1,0 +1,23 @@
+body {
+    width: 260px;
+    background-color: #3367D5;
+    margin: 0px;
+    text-align: center;
+}
+
+#volume-manager {
+    background-color: #f3f3f3;
+
+}
+
+#volume-manager #title {
+    background-color: #3367D5;
+    font-size: large;
+    font-weight: 300;
+    padding: 10px;
+    color: #ffffff;
+}
+
+#volume-manager #control {
+    padding: 10px;
+}
